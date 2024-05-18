@@ -1,5 +1,5 @@
 Angine.@angine04
 
-A student major in computer science.
+A college student, novice developer, amateur composer, unprofessional designer and linguistics hobbyist.
 
 me@angine.tech
