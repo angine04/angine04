@@ -2,6 +2,6 @@
 
 Angine.@angine04
 
-A college student, novice developer, amateur composer, unprofessional designer and linguistics hobbyist.
+Loves developing and designing. Makes software, music, conlangs and more.
 
 me@angine.tech
