@@ -2,6 +2,6 @@
 
 Angine.@angine04
 
-Loves developing and designing. Makes software, music, conlangs and more.
+Loves developing and designing. Makes softwares, music, conlangs and more.
 
 me@angine.tech
